@@ -1,4 +1,4 @@
-[![M8ven Score](https://m8ven.ai/badge/mcp/ocakciomursel-pixel/apify-mcp-b2b-scrapers)](https://m8ven.ai/mcp/ocakciomursel-pixel/apify-mcp-b2b-scrapers?s=readme) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![M8ven Score](https://m8ven.ai/badge/mcp/ocakciomursel-pixel-apify-mcp-b2b-scrapers-1bxtdf?v=149c05e788b3351ba5bdee4d73933147)](https://m8ven.ai/mcp/ocakciomursel-pixel-apify-mcp-b2b-scrapers-1bxtdf?s=readme) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 > ### ⚡ Instant Download: 1,125 Live-Verified US B2B Leads + Clay 25x & 7x n8n Pro Agency Vault
 > - 💳 **[Instant Card / Apple Pay Checkout & Auto-Download (.ZIP) — $10 / $20 / $30 →](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)** *(Zero subscriptions • Automated instant browser `.ZIP` decryption & download)*
