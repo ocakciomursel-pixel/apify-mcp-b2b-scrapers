@@ -1,3 +1,5 @@
+[![M8ven Score](https://m8ven.ai/badge/mcp/ocakciomursel-pixel/apify-mcp-b2b-scrapers)](https://m8ven.ai/mcp/ocakciomursel-pixel/apify-mcp-b2b-scrapers?s=readme) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
 > ### ⚡ Instant Download: 1,125 Live-Verified US B2B Leads + Clay 25x & 7x n8n Pro Agency Vault
 > - 💳 **[Instant Card / Apple Pay Checkout & Auto-Download (.ZIP) — $10 / $20 / $30 →](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)** *(Zero subscriptions • Automated instant browser `.ZIP` decryption & download)*
 > - 📥 **[Download Free 30-Row Verified B2B Sample CSV First →](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/sample-leads-30-verified.csv)** *(SEC Form D Newly Funded Startups + YC Hiring + High-MRR Skool Creators + B2B Agencies)*

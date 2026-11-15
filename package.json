@@ -1,0 +1,67 @@
+{
+  "name": "apify-mcp-b2b-scrapers",
+  "version": "2.1.0",
+  "description": "Zero-dependency Model Context Protocol (MCP) server, Streamable HTTP API, CLI & Claude Skill exposing 34 B2B Lead Generation, Apollo Alternative, Google Maps, Skool MRR, Clutch, G2/Capterra, Google Ads Spy & Clay.com tools.",
+  "type": "module",
+  "main": "./bin/mcp-server.mjs",
+  "bin": {
+    "apify-mcp-b2b-scrapers": "./bin/mcp-server.mjs"
+  },
+  "files": [
+    "bin/",
+    "workflows/",
+    "skills/",
+    "agents/",
+    "docs/openapi.json",
+    "SKILL.md",
+    "server.json",
+    "glama.json",
+    "smithery.yaml",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node ./bin/mcp-server.mjs",
+    "start:http": "node ./bin/mcp-server.mjs --http",
+    "test": "node --test test/mcp-server.test.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "claude-skill",
+    "claude-code",
+    "cursor",
+    "b2b-leads",
+    "google-maps-scraper",
+    "email-finder",
+    "email-verifier",
+    "clay",
+    "n8n",
+    "apify",
+    "web-scraping",
+    "seo-audit",
+    "llms-txt",
+    "shopify-scraper",
+    "apollo-alternative",
+    "skool-scraper",
+    "clutch-scraper",
+    "g2-scraper",
+    "wellfound",
+    "google-ads-transparency",
+    "funded-startups"
+  ],
+  "author": "Lucacelli Data Engineering (@lucacelli)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocakciomursel-pixel/apify-mcp-b2b-scrapers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocakciomursel-pixel/apify-mcp-b2b-scrapers/issues"
+  },
+  "homepage": "https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/"
+}
